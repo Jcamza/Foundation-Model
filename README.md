@@ -1,5 +1,5 @@
 # Foundation-Model
- Google scholar[(https://scholar.google.com/scholar?scilib=1&hl=zh-CN&as_sdt=0,5)]  
+ Google scholar[https://scholar.google.com/scholar?scilib=1&hl=zh-CN&as_sdt=0,5]  
 
 ### Natural
 
