@@ -2,7 +2,7 @@
  [**Google scholar**](https://scholar.google.com/scholar?scilib=1&hl=zh-CN&as_sdt=0,5)  
 
 ### Natural
- [**DINO**](https://github.com/facebookresearch/dino) [**DINOv2**](https://github.com/facebookresearch/dinov2) [**DINOv**](https://github.com/facebookresearch/dinov3)  
+ [**DINO**](https://github.com/facebookresearch/dino) [**DINOv2**](https://github.com/facebookresearch/dinov2) [**DINOv3**](https://github.com/facebookresearch/dinov3)  
  [**CLIP**]  
  [**SAM**]  
 
