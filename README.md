@@ -3,6 +3,7 @@
 
 ### Natural
  [**CLIP**](https://github.com/openai/CLIP)   
+ [**LLava**](https://huggingface.co/liuhaotian/llava-v1.5-7b)  
 
 ### Medicine
 [**CONCH**](https://github.com/mahmoodlab/CONCH)  
