@@ -3,6 +3,9 @@
 
 ### Natural
  [**CLIP**](https://github.com/openai/CLIP)   
+ [**BLIP**](https://arxiv.org/pdf/2201.12086)  
+ [**SigLIP**](https://arxiv.org/pdf/2303.15343)  
+ [**ALIGN(CLIP增强版)**](https://arxiv.org/pdf/2102.05918)  
  [**LLava**](https://huggingface.co/liuhaotian/llava-v1.5-7b)  
 
 ### Medicine
